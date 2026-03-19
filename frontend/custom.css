@@ -1,0 +1,84 @@
+/* Custom styling for the RiskEngine dashboard */
+
+/* ASCII title styling */
+.ascii-title {
+  font-family: "IBM Plex Mono", monospace;
+  color: #d4d9e8;
+  font-size: 0.85rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  white-space: pre;
+}
+:root {
+  --primary: #4a9eff;
+  --danger: #e74c3c;
+  --success: #2ecc71;
+  --info: #1abc9c;
+  --warning: #f0a500;
+  --muted: #5a6275;
+}
+
+/* Body background gradient and smooth font rendering */
+body {
+  background: linear-gradient(135deg, #0d0f12 0%, #151820 100%);
+  color: #d4d9e8;
+  font-family: "IBM Plex Mono", monospace;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar tweaks */
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: var(--primary) !important;
+}
+
+/* Card enhancements */
+.card {
+  background-color: #151820;
+  border: 1px solid #252a35;
+  border-radius: .75rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,.4);
+  color: #d4d9e8;
+}
+
+.card-header {
+  background-color: #252a35;
+  color: #d4d9e8;
+  font-weight: 500;
+}
+
+.kpi-value {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin: 0;
+}
+
+.kpi-label {
+  font-size: .85rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: .25rem;
+}
+
+/* Chart container ensures responsive height */
+.chart {
+  width: 100%;
+  min-height: 400px;
+}
+
+/* Spinner overlay while analysis runs */
+#spinnerOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(13,15,18, .85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1050;
+  color: #fff;
+  font-size: 1.25rem;
+  display: none;
+}
