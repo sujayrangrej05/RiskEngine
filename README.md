@@ -131,6 +131,17 @@ project-root/
 
 ---
 
+## 📊 Results
+![First](https://github.com/user-attachments/assets/e2ce0257-fc01-4085-9cfd-e5e9f4f8fe6f)
+![Second](https://github.com/user-attachments/assets/76948846-e117-42bf-b748-0bac7526a3c2)
+![Third](https://github.com/user-attachments/assets/a2e2a256-c9eb-4294-b167-742fc7e4f521)
+![Fourth](https://github.com/user-attachments/assets/cccd600b-20a5-4c57-9aae-17325b85b1ad)
+
+
+---
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
