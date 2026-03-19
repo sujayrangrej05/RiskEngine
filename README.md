@@ -137,9 +137,6 @@ project-root/
 ![Third](https://github.com/user-attachments/assets/a2e2a256-c9eb-4294-b167-742fc7e4f521)
 ![Fourth](https://github.com/user-attachments/assets/cccd600b-20a5-4c57-9aae-17325b85b1ad)
 
-
----
-
 ---
 
 ## 🤝 Contributing
