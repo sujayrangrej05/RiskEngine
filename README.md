@@ -65,8 +65,8 @@ The UI is built with **Bootstrap 5** (dark theme) and **Plotly.js** for intera
 
 ```bash
 # Clone the repository (or copy the source folder)
-git clone https://github.com/your‑username/riskengine-dashboard.git
-cd riskengine-dashboard
+git clone https://github.com/sujayrangrej05/RiskEngine.git
+cd RiskEngine
 
 # Install required Python packages
 pip install -r requirements.txt
@@ -144,15 +144,8 @@ Please fork the repository, create a feature branch, and open a pull request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
-
----
-
 ## 🎉 Acknowledgements
 
-- The original Dash implementation served as a reference for the risk‑engine logic.
 - Plotly.js and Bootstrap made the UI development fast and responsive.
 - All data used in the demo (`prices.csv`) is public market data for illustrative purposes.
 
