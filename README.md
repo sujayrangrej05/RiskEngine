@@ -7,9 +7,6 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
                                                                                
 ```
-
-# Risk Engine
-
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-black?logo=flask)
